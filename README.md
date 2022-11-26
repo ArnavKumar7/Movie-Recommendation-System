@@ -19,6 +19,8 @@
 
 - Upload the datasets given in the zip file to colab and run all the cells
 
+### OR
+
 ##### Requirements: Python 3.7 or above
 
 1. Install jupyter notebook (if not installed) using the command:
@@ -30,6 +32,7 @@ pip install notebook
 2.
 
 - Install all the python libraries used using the following commands:
+
   ```bash
   pip install numpy
   pip install pandas
@@ -38,11 +41,12 @@ pip install notebook
   pip install matplotlib
   pip install plotly
   ```
+
   [ Internal libraries imported from seaborn are 'TfidVectorizer' and 'cosine_similarity' which has already been included in the package ]
 
----
+  ***
 
-OR
+  OR
 
 - Download the requirements.txt file and run the following command:
   ```bash
